@@ -28,6 +28,7 @@ A comprehensive book borrowing platform built with Laravel. This project allows 
 
 - PHP (>= 8.0)
 - Composer
+- Laravel
 - Node.js & NPM
 - MySQL
 
