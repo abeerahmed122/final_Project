@@ -24,17 +24,6 @@ The Book Borrowing System is designed to cater to both regular users and adminis
 ## Installation
 
 To set up and use the Book Borrowing System, follow these steps:
-cd final_Project
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan serve
-
-## Development
-IDE: The project is developed using PHPStorm.
-Framework: Built with Laravel, a powerful PHP framework.
-
 
 1. **Clone the Repository:**
 
